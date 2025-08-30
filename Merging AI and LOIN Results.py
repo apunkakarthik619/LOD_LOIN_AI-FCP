@@ -5,7 +5,7 @@ BASE        = r"C:\LOD_LOIN_AI"
 OUTPUTS     = os.path.join(BASE, "outputs")
 
 # Change if your file names differ
-LOIN_CSV    = os.path.join(OUTPUTS, "loin_L350.csv")        # your rule-based output
+LOIN_CSV    = os.path.join(OUTPUTS, "loin_L300.csv")        # your rule-based output
 AI_CSV      = os.path.join(OUTPUTS, "results_ai.csv")       # Step 7 output
 OUT_CSV     = os.path.join(OUTPUTS, "results_for_revit.csv")
 
