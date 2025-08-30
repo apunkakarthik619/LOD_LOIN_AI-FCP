@@ -1,0 +1,181 @@
+﻿ElementId,Category,Type Name,Level,Assembly Code,Default Thickness,Description,Fire Rating,Insulation Thickness,Lining Thickness,Material,Model,Service Type,Structural,System Type,Type Mark,Width
+﻿1664302,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1664315,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1664326,Cable Trays,Wire Mesh Cable Tray,,TRK-896,,,,,,,,Telecom,,,XYZ-96,
+﻿1664337,Cable Trays,Solid Bottom Cable Tray,,LAD-657,,,,,,,LAD,Telecom,,,CDE-87,
+﻿1664348,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1666346,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666347,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666348,Cable Trays,Wire Mesh Cable Tray,,TRK-896,,,,,,,,Telecom,,,XYZ-96,
+﻿1666349,Cable Trays,Solid Bottom Cable Tray,,LAD-657,,,,,,,LAD,Telecom,,,CDE-87,
+﻿1666350,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1666427,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666428,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666429,Cable Trays,Wire Mesh Cable Tray,,TRK-896,,,,,,,,Telecom,,,XYZ-96,
+﻿1666430,Cable Trays,Solid Bottom Cable Tray,,LAD-657,,,,,,,LAD,Telecom,,,CDE-87,
+﻿1666431,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1666513,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666514,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666515,Cable Trays,Wire Mesh Cable Tray,,TRK-896,,,,,,,,Telecom,,,XYZ-96,
+﻿1666516,Cable Trays,Solid Bottom Cable Tray,,LAD-657,,,,,,,LAD,Telecom,,,CDE-87,
+﻿1666517,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1666599,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666600,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666601,Cable Trays,Wire Mesh Cable Tray,,TRK-896,,,,,,,,Telecom,,,XYZ-96,
+﻿1666602,Cable Trays,Solid Bottom Cable Tray,,LAD-657,,,,,,,LAD,Telecom,,,CDE-87,
+﻿1666603,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1666661,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1666689,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1666715,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1666782,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666783,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666784,Cable Trays,Wire Mesh Cable Tray,,TRK-896,,,,,,,,Telecom,,,XYZ-96,
+﻿1666785,Cable Trays,Solid Bottom Cable Tray,,LAD-657,,,,,,,LAD,Telecom,,,CDE-87,
+﻿1666786,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1666801,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666809,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666845,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666846,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666847,Cable Trays,Wire Mesh Cable Tray,,TRK-896,,,,,,,,Telecom,,,XYZ-96,
+﻿1666848,Cable Trays,Solid Bottom Cable Tray,,LAD-657,,,,,,,LAD,Telecom,,,CDE-87,
+﻿1666849,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1666898,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666899,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Power,,,ABC-15,
+﻿1666900,Cable Trays,Wire Mesh Cable Tray,,TRK-896,,,,,,,,Telecom,,,XYZ-96,
+﻿1666901,Cable Trays,Solid Bottom Cable Tray,,LAD-657,,,,,,,LAD,Telecom,,,CDE-87,
+﻿1666902,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1667060,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1667097,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,0,,,ABC-15,
+﻿1667119,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,0,,,ABC-15,
+﻿1667143,Cable Trays,Ladder Cable Tray,,CT-123,,,,,,,CT,Telecom,,,ABC-15,
+﻿1663952,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,25 mm,,,,,Supply Air,TYU-82,
+﻿1663980,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,0 mm,,,,,Return Air,TYU-82,
+﻿1664007,Ducts,Default,,FR-02,,,,25 mm,25 mm,,,,,Exhaust Air,GHT,
+﻿1666323,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,25 mm,,,,,Supply Air,TYU-82,
+﻿1666324,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,0 mm,,,,,Return Air,TYU-82,
+﻿1666325,Ducts,Default,,FR-02,,,,25 mm,25 mm,,,,,Exhaust Air,GHT,
+﻿1666407,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,25 mm,,,,,Supply Air,TYU-82,
+﻿1666408,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,0 mm,,,,,Return Air,TYU-82,
+﻿1666409,Ducts,Default,,FR-02,,,,25 mm,25 mm,,,,,Exhaust Air,GHT,
+﻿1666493,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,25 mm,,,,,Supply Air,TYU-82,
+﻿1666494,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,0 mm,,,,,Return Air,TYU-82,
+﻿1666495,Ducts,Default,,FR-02,,,,25 mm,25 mm,,,,,Exhaust Air,GHT,
+﻿1666579,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,25 mm,,,,,Supply Air,TYU-82,
+﻿1666580,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,0 mm,,,,,Return Air,TYU-82,
+﻿1666581,Ducts,Default,,FR-02,,,,25 mm,25 mm,,,,,Exhaust Air,GHT,
+﻿1666658,Ducts,Default,,FR-02,,,,25 mm,25 mm,,,,,Exhaust Air,GHT,
+﻿1666686,Ducts,Default,,FR-02,,,,25 mm,25 mm,,,,,Exhaust Air,GHT,
+﻿1666712,Ducts,Default,,FR-02,,,,25 mm,25 mm,,,,,Exhaust Air,GHT,
+﻿1666759,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,25 mm,,,,,Supply Air,TYU-82,
+﻿1666760,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,0 mm,,,,,Return Air,TYU-82,
+﻿1666761,Ducts,Default,,FR-02,,,,25 mm,25 mm,,,,,Exhaust Air,GHT,
+﻿1666798,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,25 mm,,,,,Supply Air,TYU-82,
+﻿1666806,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,25 mm,,,,,Supply Air,TYU-82,
+﻿1666825,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,25 mm,,,,,Supply Air,TYU-82,
+﻿1666826,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,0 mm,,,,,Return Air,TYU-82,
+﻿1666827,Ducts,Default,,FR-02,,,,25 mm,25 mm,,,,,Exhaust Air,GHT,
+﻿1666878,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,25 mm,,,,,Supply Air,TYU-82,
+﻿1666879,Ducts,Radius Elbows / Tees,,FG-87,,,,25 mm,0 mm,,,,,Return Air,TYU-82,
+﻿1666880,Ducts,Default,,FR-02,,,,25 mm,25 mm,,,,,Exhaust Air,GHT,
+﻿1666987,Ducts,Radius Elbows / Tees,,FG-87,,,,0 mm,0 mm,,,,,Supply Air,TYU-82,
+﻿1667026,Ducts,Radius Elbows / Tees,,FG-87,,,,0 mm,0 mm,,,,,Supply Air,TYU-82,
+﻿1663903,Floors,Generic 300mm,L1,CDF-86,300,,,,,,ER-08,,Yes,,TYO-25,
+﻿1664032,Floors,Concrete 250mm,L2,CDF-72,250,,,,,,TYU-872,,Yes,,SF-02,
+﻿1666313,Floors,Generic 300mm,L1,CDF-86,300,,,,,,ER-08,,Yes,,TYO-25,
+﻿1666328,Floors,Concrete 250mm,L2,CDF-72,250,,,,,,TYU-872,,Yes,,SF-02,
+﻿1666397,Floors,Generic 300mm,L1,CDF-86,300,,,,,,ER-08,,Yes,,TYO-25,
+﻿1666412,Floors,Concrete 250mm,L2,CDF-72,250,,,,,,TYU-872,,Yes,,SF-02,
+﻿1666483,Floors,Generic 300mm,L1,CDF-86,300,,,,,,ER-08,,Yes,,TYO-25,
+﻿1666498,Floors,Concrete 250mm,L2,CDF-72,250,,,,,,TYU-872,,Yes,,SF-02,
+﻿1666569,Floors,Generic 300mm,L1,CDF-86,300,,,,,,ER-08,,Yes,,TYO-25,
+﻿1666584,Floors,Concrete 250mm,L2,CDF-72,250,,,,,,TYU-872,,Yes,,SF-02,
+﻿1666749,Floors,Generic 300mm,L1,CDF-86,300,,,,,,ER-08,,Yes,,TYO-25,
+﻿1666764,Floors,Concrete 250mm,L2,CDF-72,250,,,,,,TYU-872,,Yes,,SF-02,
+﻿1666815,Floors,Generic 300mm,L1,CDF-86,300,,,,,,ER-08,,Yes,,TYO-25,
+﻿1666830,Floors,Concrete 250mm,L2,CDF-72,250,,,,,,TYU-872,,Yes,,SF-02,
+﻿1666868,Floors,Generic 300mm,L1,CDF-86,300,,,,,,ER-08,,Yes,,TYO-25,
+﻿1666883,Floors,Concrete 250mm,L2,CDF-72,250,,,,,,TYU-872,,Yes,,SF-02,
+﻿1664105,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1664123,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Domestic Hot Water,DF-98,
+﻿1664143,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Vent,DF-98,
+﻿1664157,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1664173,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666336,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666338,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Domestic Hot Water,DF-98,
+﻿1666340,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Vent,DF-98,
+﻿1666342,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666344,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666417,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666419,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Domestic Hot Water,DF-98,
+﻿1666421,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Vent,DF-98,
+﻿1666423,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666425,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666503,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666505,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Domestic Hot Water,DF-98,
+﻿1666507,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Vent,DF-98,
+﻿1666509,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666511,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666589,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666591,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Domestic Hot Water,DF-98,
+﻿1666593,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Vent,DF-98,
+﻿1666595,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666597,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666659,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666687,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666713,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666772,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666774,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Domestic Hot Water,DF-98,
+﻿1666776,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Vent,DF-98,
+﻿1666778,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666780,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666799,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666807,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666835,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666837,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Domestic Hot Water,DF-98,
+﻿1666839,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Vent,DF-98,
+﻿1666841,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666843,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666888,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666890,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Domestic Hot Water,DF-98,
+﻿1666892,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Vent,DF-98,
+﻿1666894,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1666896,Pipes,Standard,,VFT-87,,,,25 mm,,Copper,,,,Domestic Cold Water,DF-98,
+﻿1667162,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Domestic Hot Water,DF-98,
+﻿1667184,Pipes,Standard,,VFT-87,,,,0 mm,,Copper,,,,Domestic Hot Water,DF-98,
+﻿1663926,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1663930,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1663934,Walls,Generic - 300mm,,DF-08,,"Blockwork, 300mm thick",240,,,,DR-89,,,,G-09,300
+﻿1663938,Walls,Generic - 150mm,,DR-96,,"Blockwork,150mm thick",90,,,,DR-95,,,,G-04,150
+﻿1666319,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666320,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666321,Walls,Generic - 300mm,,DF-08,,"Blockwork, 300mm thick",240,,,,DR-89,,,,G-09,300
+﻿1666322,Walls,Generic - 150mm,,DR-96,,"Blockwork,150mm thick",90,,,,DR-95,,,,G-04,150
+﻿1666403,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666404,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666405,Walls,Generic - 300mm,,DF-08,,"Blockwork, 300mm thick",240,,,,DR-89,,,,G-09,300
+﻿1666406,Walls,Generic - 150mm,,DR-96,,"Blockwork,150mm thick",90,,,,DR-95,,,,G-04,150
+﻿1666489,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666490,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666491,Walls,Generic - 300mm,,DF-08,,"Blockwork, 300mm thick",240,,,,DR-89,,,,G-09,300
+﻿1666492,Walls,Generic - 150mm,,DR-96,,"Blockwork,150mm thick",90,,,,DR-95,,,,G-04,150
+﻿1666575,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666576,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666577,Walls,Generic - 300mm,,DF-08,,"Blockwork, 300mm thick",240,,,,DR-89,,,,G-09,300
+﻿1666578,Walls,Generic - 150mm,,DR-96,,"Blockwork,150mm thick",90,,,,DR-95,,,,G-04,150
+﻿1666657,Walls,Generic - 300mm,,DF-08,,"Blockwork, 300mm thick",240,,,,DR-89,,,,G-09,300
+﻿1666685,Walls,Generic - 300mm,,DF-08,,"Blockwork, 300mm thick",240,,,,DR-89,,,,G-09,300
+﻿1666711,Walls,Generic - 300mm,,DF-08,,"Blockwork, 300mm thick",240,,,,DR-89,,,,G-09,300
+﻿1666755,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666756,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666757,Walls,Generic - 300mm,,DF-08,,"Blockwork, 300mm thick",240,,,,DR-89,,,,G-09,300
+﻿1666758,Walls,Generic - 150mm,,DR-96,,"Blockwork,150mm thick",90,,,,DR-95,,,,G-04,150
+﻿1666797,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666805,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666821,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666822,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666823,Walls,Generic - 300mm,,DF-08,,"Blockwork, 300mm thick",240,,,,DR-89,,,,G-09,300
+﻿1666824,Walls,Generic - 150mm,,DR-96,,"Blockwork,150mm thick",90,,,,DR-95,,,,G-04,150
+﻿1666874,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666875,Walls,Generic - 200mm,,WL-96,,"Concrete, 200mm thick",60,,,,AV-05,,,,G-06,200
+﻿1666876,Walls,Generic - 300mm,,DF-08,,"Blockwork, 300mm thick",240,,,,DR-89,,,,G-09,300
+﻿1666877,Walls,Generic - 150mm,,DR-96,,"Blockwork,150mm thick",90,,,,DR-95,,,,G-04,150
